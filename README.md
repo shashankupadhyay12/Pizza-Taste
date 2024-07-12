@@ -2,7 +2,7 @@
 Responsive Pizza Shop Website using HTML, CSS and JavaScript
 
 
-creating a responsive pizza shop website using HTML, CSS, and JavaScript can help you enhance your online presence, reach a wider audience, and provide a better customer experience. By following the steps outlined in this tutorial, you can design a website that is user-friendly, functional and optimized for search engine visibility. Remember to define your website goals and target audience, sketch out your website layout and navigation, and use responsive design techniques for optimal viewing experience on different devices. With a well-designed pizza shop website, you can attract new customers, increase your revenue, and stand out in a highly competitive market.
+Welcome to Pizza Taste! This is a delightful web application where pizza enthusiasts can explore, customize, and order their favorite pizzas online. Built using HTML, CSS, and JavaScript, this website offers a seamless and interactive experience for all pizza lovers.
 
 Overview
 ![Screenshot 2024-07-12 155302](https://github.com/user-attachments/assets/8827ad61-9c13-445f-9f54-5e3da7befe68)
